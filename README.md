@@ -19,7 +19,7 @@ Foi construído do zero, utilizando @keyframes para fazer algumas animações.
 * JavaScript
 
 * [SVG Inject](https://github.com/iconfu/svg-inject) - Biblioteca para injetar arquivos SVG. 
-* [AOS Library](https://github.com/iconfu/svg-inject) - Biblioteca para criar animação ao scroll. 
+* [AOS Library](https://michalsnik.github.io/aos/) - Biblioteca para criar animação ao scroll. 
 * [Google Fonts](https://fonts.google.com/) - Fontes para o projeto.
 
 
