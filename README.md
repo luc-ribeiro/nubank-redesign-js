@@ -1,44 +1,51 @@
-# Nubank - Redesign
+<div align="center">
+<h1>
+  Nubank - Redesign
+</h1>
 
-Este projeto do Nubank faz parte do curso [FrontPUSH](https://frontpush.com.br/).
+<img src="./svg/logonu.svg" />  
+</div>
 
-## Demonstração
+<div align="right">
+  Clique <a href="https://github.com/luc-ribeiro/nubank-redesign-js/blob/main/README-PTBR.md">aqui</a> para ver a versão em Português.
+</div>
+
+## Demo
 
 ![Frame 1](https://user-images.githubusercontent.com/82620787/204679511-128b1d36-dcf0-4031-b034-d2e946eacc4b.png)
 
-## Mais Informações
-O projeto consiste em um redesign do site do Nubank.
+## More Information
+The project consists of a redesign of the Nubank website.
 
-<h3>📚 Linguagens / Frameworks / Bibliotecas</h3>
+<h3>📚 Languages / Frameworks / Libraries</h3>
 
-Foi construído do zero, utilizando @keyframes para fazer algumas animações.
+It was built from scratch, using @keyframes to create some animations.
 
 * HTML
 * CSS 
 * SASS
 * JavaScript
 
-* [SVG Inject](https://github.com/iconfu/svg-inject) - Biblioteca para injetar arquivos SVG. 
-* [AOS Library](https://michalsnik.github.io/aos/) - Biblioteca para criar animação ao scroll. 
-* [Google Fonts](https://fonts.google.com/) - Fontes para o projeto.
+* [SVG Inject](https://github.com/iconfu/svg-inject) - Library to inject SVG files. 
+* [AOS Library](https://michalsnik.github.io/aos/) - Library to create scroll animations. 
+* [Google Fonts](https://fonts.google.com/) - Fonts for the project.
 
 
-<h3>🧰 Ferramentas</h3>
+<h3>🧰 Tools</h3>
 
-* [Figma](https://www.figma.com/) - Ferramenta para design de Interfaces.
-* [Visual Studio Code](https://code.visualstudio.com/) - IDE de Desenvolvimento. 
-  * [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) -  Extensão do vscode para compilar o arquivo Sass e gerar style em css
+* [Figma](https://www.figma.com/) - Interface design tool.
+* [Visual Studio Code](https://code.visualstudio.com/) - Development IDE. 
+  * [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) -  VSCode extension to compile Sass file and generate css style.
 
 
-<h3> 🎲 Rodando o Projeto</h3>
+<h3> 🎲 Running the Project</h3>
 
 ```bash
-# Clone este repositório
-$ git clone https://github.com/luc-ribeiro/nubank-redesign.git
+# Clone this repository
+$ git clone https://github.com/luc-ribeiro/nubank-redesign-js.git
 
-# Acesse a pasta do projeto
-$ cd nubank-redesign
+# Access the project folder
+$ cd nubank-redesign-js
 
-# execute o arquivo com a extensão Live Server
+# Execute the file with Live Server extension
 ./index.html
-```
