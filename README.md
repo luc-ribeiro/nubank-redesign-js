@@ -12,6 +12,10 @@
 
 ## Demo
 
+<a href="https://luc-ribeiro.github.io/nubank-redesign-js/" target="_blank">Live Preview</a>
+<br>
+<br>
+
 ![Frame 1](https://user-images.githubusercontent.com/82620787/204679511-128b1d36-dcf0-4031-b034-d2e946eacc4b.png)
 
 ## More Information
